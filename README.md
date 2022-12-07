@@ -1,2 +1,2 @@
-# Playstaion-horror
+# Playstation-horror
 cps410 project
